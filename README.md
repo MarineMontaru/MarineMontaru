@@ -1,4 +1,4 @@
-![Cover](fond-banner.png)
+![Cover](fond-banner-small.png)
 
 ### Welcome to my GitHub page 👋
 
