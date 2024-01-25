@@ -1,7 +1,6 @@
 ![Cover](fond-banner-small.png)
 
 <h1>Welcome to my GitHub page 👋</h1> 
-<p>I'm Marine, PHP/JS fullstack web developper from Lyon area, France.</p>
 
 <h2>📎 Technologies I use</h2>
 <p>
