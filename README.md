@@ -29,8 +29,8 @@ Svelte: #FF3E00
 
 <h2>✏️ Projects I am working on</h2>
 <ul>
-  <li><strong>My resume</strong> - a website to introduce myself and expose visually my works</li>
-  <li><strong>Of courses</strong> - a (mostly mobile) website to make meals planning and shopping list easier</li>
+  <li><strong>My portfolio</strong> - a website to introduce myself and expose visually my works</li>
+  <li><strong>Of courses</strong> - a mobile-designed website to make meals planning and shopping list easier</li>
 </ul>
 
 <h2>✉️ How to reach me?</h2>
