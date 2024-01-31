@@ -19,8 +19,8 @@
 
 <h2>✏️ Projects I am working on</h2>
 <ul>
-  <li><strong>My portfolio</strong> - a website to introduce myself and expose visually my works</li>
-  <li><strong>Of courses</strong> - a mobile-designed website to make meals planning and shopping list easier</li>
+  <li><a href="https://github.com/MarineMontaru/my-portfolio/tree/main"><strong>My portfolio</strong></a> - a website to introduce myself and expose visually my works</li>
+  <li><strong>Of courses</strong> <em>(under construction)</em> - a mobile-designed website to make meals planning and shopping list easier</li>
 </ul>
 
 <h2>✉️ How to reach me?</h2>
